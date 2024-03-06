@@ -1,9 +1,9 @@
 public class add {
     public static void main(String[] args) {
-        int a = 1;
-        int b = 1;
-        int c = 3;
-        int d = 5;
+        int a = 61;
+        int b = 12;
+        int c = 30;
+        int d = 52;
         System.out.println(a + b + c + d);
     }
 }
